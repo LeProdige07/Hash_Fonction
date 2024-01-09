@@ -9,7 +9,7 @@ Notre fonction de hachage est composée des certaines opérations dont :
     - une opération de compression des valeurs ascii de chaque caractère avec addition et soustraction;
     - une opération de conversion en héxadécimal;
     - une opération de substitution non-linéaire.
-Toutes ces opérations nous permet de mettre en place une fonction de hachage qui respecte les caractéristiques suivantes : 
+Toutes ces opérations nous permettent de mettre en place une fonction de hachage qui respecte les caractéristiques suivantes : 
 
     - déterministe;
     - fonction à sens unique;
